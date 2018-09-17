@@ -1,5 +1,8 @@
 _repo: La-Igualdad-Social-y-Politica-y-sus-Relaciones-con-la-Libertad_52502
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52502-h/images/cover.jpg
 creator:
   author:
     agent_name: Arenal de García Carrasco, Concepción
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '46898'
     url: http://www.gutenberg.org/2009/agents/46898
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52502#La-Igualdad-Social-y-Politica-y-sus-Relaciones-con-la-Libertad
 gutenberg_issued: '2016-07-05'
 gutenberg_type: Text
 identifiers:
