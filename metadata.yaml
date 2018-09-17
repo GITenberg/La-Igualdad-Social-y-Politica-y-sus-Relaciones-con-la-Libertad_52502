@@ -1,0 +1,30 @@
+_repo: La-Igualdad-Social-y-Politica-y-sus-Relaciones-con-la-Libertad_52502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arenal de García Carrasco, Concepción
+    aliases:
+    - García Carrasco, Concepción Arenal de
+    - Arenal de Garcia Carrasco, Concepcion
+    - De García Carrasco, Concepción Arenal
+    - Arenal, Concepción
+    - Carrasco, Concepción Arenal de García
+    birthdate: 1820
+    deathdate: 1893
+    gutenberg_agent_id: '46898'
+    url: http://www.gutenberg.org/2009/agents/46898
+description: ''
+gutenberg_issued: '2016-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52502'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HM'
+- !lcsh 'Equality'
+- GITenberg
+title: La Igualdad Social y Política y sus Relaciones con la Libertad
+url: http://www.gutenberg.org/ebooks/52502
